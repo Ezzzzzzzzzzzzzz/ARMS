@@ -2,12 +2,12 @@
 
 Arduino Libraries and Sketch, Some basic instructions also included
 
-## Info
-
 Otto has fully functioning arm movements, this has come with a small price to pay, Some of Otto's mouths have been removed
 to allow for the additional memory needed for the arms, these include the numbers 5 -9 and the vampire mouths (sorry)
 Also only one animated mouth has been left, the sleeping dreamMouth, again the others have been removed for additional memory,
 I think the arm movements are worth the sacrifice.
+
+We decided to leave github for the main codes and more advanced coders. For the latest changes please go and join our [Otto DIY Arms in Wikifactory](https://wikifactory.com/+OttoDIY/arms) is a similar platform but much more easy to use, visual and simple for all the community to collaborate.
 
 As an open source library, Otto and Myself respect all contributors to the open source community and thank you very much for everyone's supervision.
 
@@ -63,3 +63,5 @@ Truly opensource hardware!
 
 ## License CC-BY-SA
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Otto DIY</span> by <a xmlns:cc="http://creativecommons.org/ns#"  property="cc:attributionName"> [www.ottodiy.com](http://www.ottodiy.com) </a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+Otto DIY Website must be included in any redistribution and remixes must keep the CC-BY-SA license.
